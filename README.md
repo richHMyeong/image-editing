@@ -25,3 +25,4 @@ pillow==9.2.0
 ## Reference
 
 - https://yunwoong.tistory.com/51
+- https://ddolcat.tistory.com/954
