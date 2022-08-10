@@ -24,5 +24,7 @@ pillow==9.2.0
 
 ## Reference
 
+- https://github.com/tesseract-ocr/tesseract
+- https://github.com/madmaze/pytesseract
 - https://yunwoong.tistory.com/51
 - https://ddolcat.tistory.com/954
