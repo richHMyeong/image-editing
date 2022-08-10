@@ -14,3 +14,11 @@ pandas==1.4.3
 matplotlib==3.5.2
 opencv-python==4.6.0.66
 ```
+
+## Package
+
+- [Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
+
+## Reference
+
+- https://yunwoong.tistory.com/51
