@@ -15,6 +15,7 @@ matplotlib==3.5.2
 opencv-python==4.6.0.66
 opencv-contrib-python==4.6.0.66
 pytesseract==0.3.9
+pillow==9.2.0
 ```
 
 ## Package
