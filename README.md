@@ -19,6 +19,8 @@ pillow==9.2.0
 torch==1.12.1+cu113
 torchaudio==0.12.1+cu113
 torchvision==0.13.1+cu113
+imutils==0.5.4
+scipy==1.9.0
 ```
 
 ## Package
